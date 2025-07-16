@@ -40,6 +40,12 @@
 > Cleaned and analyzed +500,000 UK transactions using Python. Performed RFM segmentation and clustering to identify high-value customers.
 
 ---
+## 📊 Analytical visualizations
+
+<img width="790" height="490" alt="tipwkwday" src="https://github.com/user-attachments/assets/4826452d-1251-4696-b81a-34f02bb94597" />
+
+
+---
 
 ## 📚 Certifications
 
@@ -69,4 +75,4 @@
 ---
 
 _Thanks for visiting my GitHub profile! Feel free to explore my projects or reach out for collaboration._  
-🧠 *“Data is the new oil, but insight is the combustion.”* 🚀
+🧠 * “It’s not about having data, it’s about what you do with it.”* 🚀
