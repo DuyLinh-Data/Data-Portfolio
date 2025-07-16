@@ -71,12 +71,3 @@ I specialize in using Python, SQL, and BI tools to deliver insights that support
 
 _Thanks for visiting my GitHub profile! Feel free to explore my projects or reach out for collaboration._  
 🧠 *“Data is the new oil, but insight is the combustion.”* 🚀
-"""
-
-# Lưu lại file markdown hoàn chỉnh
-readme_complete_path = "/mnt/data/README_GITHUB_PROFILE_FULL.md"
-with open(readme_complete_path, "w", encoding="utf-8") as f:
-    f.write(full_profile_readme)
-
-readme_complete_path
-
