@@ -69,8 +69,11 @@
 - 🏗 In Progress: Utilizing Python for warranty turnaround time analysis and automation of service operations.
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7595d28c-519a-47c7-8aaf-f2a852ff77be" />
+
+<p align="center">
 <img width="665" height="862" alt="image" src="https://github.com/user-attachments/assets/95c38823-9d8d-413d-a85a-9a068b18428d" />
 <img width="648" height="861" alt="image" src="https://github.com/user-attachments/assets/2f1253b2-cba2-4356-a935-18f19577de4b" />
+</p>
 
 ---
 
