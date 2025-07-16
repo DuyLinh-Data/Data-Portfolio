@@ -40,10 +40,13 @@
 > Cleaned and analyzed +500,000 UK transactions using Python. Performed RFM segmentation and clustering to identify high-value customers.
 
 ---
+
 ## 📊 Analytical visualizations
 
-<img width="790" height="490" alt="tipwkwday" src="https://github.com/user-attachments/assets/4826452d-1251-4696-b81a-34f02bb94597" />
-
+<img width="1389" height="490" alt="tipdinnerlunch" src="https://github.com/user-attachments/assets/a0cd10fb-2778-4fad-9197-9e420f9e44ec" />
+<img width="1790" height="490" alt="3plot" src="https://github.com/user-attachments/assets/960c5f63-2897-44f2-a11b-aeff4e7a6b86" />
+<img width="790" height="490" alt="tipmalefemale" src="https://github.com/user-attachments/assets/0f3f6c0e-dc01-4d65-ae88-e46651db4379" />
+<img width="790" height="490" alt="tipwkwday" src="https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12" />
 
 ---
 
