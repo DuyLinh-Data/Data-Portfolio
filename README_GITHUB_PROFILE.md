@@ -38,7 +38,7 @@
 > Designed a dynamic dashboard to monitor monthly revenue, product categories, and top-performing regions.
 
 ### 🍽️ [Restaurant Tips Analysis](https://github.com/AntoniNguyen123/SCA-5.4-Restaurant-tips-analysis)
-> Analyzed tipping behavior based on time of day, gender, and day of the week using Python. Created visualizations to explore patterns between lunch vs. dinner, male vs. female, and weekday vs. weekend tipping trends.
+> Analyzed tipping behavior based on time of day, gender, and day of the week using Python. Created visualizations to explore patterns between lunch vs. dinner, male vs. female, and weekday vs. weekend tipping trends.<br><br>
 > 🧩 Problem: Understand tipping behavior by time, gender, and weekday  
 > 🛠 Tools: Python, Seaborn, Pandas  
 > ✅ Result: Found that dinner tips were higher; no strong gender difference after outlier removal
