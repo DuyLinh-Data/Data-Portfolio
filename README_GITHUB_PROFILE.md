@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 Analytical visualizations (Customer-Segmentation-Analysis)
+## 📊 Analytical visualizations (Restaurant Tips Analysis)
 
 🔹 Comparison histogram (Lunch vs Dinner)
 
