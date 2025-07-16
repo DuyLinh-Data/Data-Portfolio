@@ -34,30 +34,18 @@
 - 🧩 **Problem**: Identify high-value customers and churn risk from 540K UK retail transactions  
 - 🛠 **Tools**: Python, Pandas, RFM, KMeans, Matplotlib  
 - ✅ **Result**: Segmented customers into 4 groups, found top 20% contributed ~80% revenue  
-<p align="center">
-  <img src="kmeans_clusters.png" width="48%" style="margin-right: 2%;" />
-  <img src="pareto_rfm.png" width="48%" />
-</p>
 
 ### 📦 [Sales Dashboard with Power BI](#)
 > Designed a dynamic dashboard to monitor monthly revenue, product categories, and top-performing regions.
 - 🧩 **Problem**: Monitor product revenue by region and category for better sales decisions  
 - 🛠 **Tools**: Power BI, Excel, DAX  
 - ✅ **Result**: Built dynamic dashboard with region filters, KPIs, monthly trends  
-<p align="center">
-  <img src="powerbi_dashboard1.png" width="48%" style="margin-right: 2%;" />
-  <img src="powerbi_dashboard2.png" width="48%" />
-</p>
 
 ### 🍽️ [Restaurant Tips Analysis](https://github.com/AntoniNguyen123/SCA-5.4-Restaurant-tips-analysis)
 > Analyzed tipping behavior based on time of day, gender, and day of the week using Python. Created visualizations to explore patterns between lunch vs. dinner, male vs. female, and weekday vs. weekend tipping trends.<br><br>
 - 🧩 **Problem**: Explore tipping behavior by gender, time, and day of the week  
 - 🛠 **Tools**: Python, Seaborn, Pandas  
 - ✅ **Result**: Dinner tips > lunch; no gender difference after removing outliers  
-<p align="center">
-  <img src="tip_dinner_vs_lunch.png" width="48%" style="margin-right: 2%;" />
-  <img src="tip_by_gender.png" width="48%" />
-</p>
 
 ---
 
