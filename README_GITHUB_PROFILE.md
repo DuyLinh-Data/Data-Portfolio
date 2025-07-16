@@ -1,6 +1,6 @@
 
 # 👋 I'm a beginner in data analytics with a background in engineering.
-Over the past year, I’ve been applying Python, Excel, and Power BI to real projects at work to build a better understanding of data-driven thinking.
+✅ Over the past year, I’ve been applying Python, Excel, and Power BI to real projects at work to build a better understanding of data-driven thinking.
 
 🎯 I enjoy working with data and using tools like Python, SQL, and Power BI to find simple insights that help solve real-world problems. I'm continuously learning and building small projects to improve my skills.
 
