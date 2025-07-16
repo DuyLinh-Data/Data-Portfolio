@@ -1,8 +1,7 @@
 
-# 👋 Hi, I'm Antoni Nguyen
+# 👋 Hi, I'm Antoni Nguyễn Duy Linh
 
-🎯 A data-driven professional with a strong passion for analytics, machine learning, and solving real-world problems through data.  
-I specialize in using Python, SQL, and BI tools to deliver insights that support strategic decision-making.
+🎯 I enjoy working with data and using tools like Python, SQL, and Power BI to find simple insights that help solve real-world problems. I'm continuously learning and building small projects to improve my skills.
 
 ---
 
@@ -10,7 +9,7 @@ I specialize in using Python, SQL, and BI tools to deliver insights that support
 
 - 🎓 Background in Engineering with a growing focus on Business Intelligence & Data Analytics
 - 📊 Skilled in building dashboards, customer segmentation models, and end-to-end data pipelines
-- 🚀 Currently transitioning into a full-time Data Analyst / BI Analyst role
+- 💼 Actively looking for part-time roles in data analysis or full-time opportunities related to data
 - 📍 Based in Vietnam | 🌐 Open to global remote opportunities
 
 ---
@@ -21,11 +20,11 @@ I specialize in using Python, SQL, and BI tools to deliver insights that support
 |---------------------|--------------------------------------------------|
 | **Programming**     | Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL |
 | **Data Handling**   | Jupyter Notebook, Google Colab, Excel (Pivot, VBA) |
-| **Visualization**   | Power BI, Tableau, Plotly                        |
-| **ML Techniques**   | K-Means, Regression, Classification, Clustering |
+| **Visualization**   | Power BI, Plotly                        |
+| **ML Techniques**   | K-Means, Regression, Clustering... |
 | **Deployment**      | Streamlit (basic), GitHub Pages, Google Sheets API |
 | **Version Control** | Git & GitHub                                     |
-| **Languages**       | English (IELTS ~5.5–6.0), Vietnamese (native)    |
+| **Languages**       | English (IELTS ~5.0–6.0), Vietnamese (native)    |
 
 ---
 
@@ -44,27 +43,27 @@ I specialize in using Python, SQL, and BI tools to deliver insights that support
 
 ## 📚 Certifications
 
-- ✅ Google Data Analytics Certificate – Coursera
-- ✅ Excel to MySQL: Analytic Techniques – Duke University
-- ✅ Data Visualization with Tableau – University of California
-- 🏗 In Progress: IBM Data Analyst Professional Certificate
+- ✅ Advanced SQL Certification (HackerRank) 
+- ✅ Data Analysis Certificate - Swiss Coding Academy
+- ✅ Pursuing Python skills for data analysis, machine learning, and deep learning applications – MCI Viet Nam
+- 🏗 In Progress: Utilizing Python for warranty turnaround time analysis and automation of service operations.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Time Series Forecasting with Prophet & ARIMA
+- Time Series Forecasting 
+- Python for Automation
+- AI Agent Development and Research
 - Streamlit for deploying Data Science apps
-- GitHub Actions & CI/CD basics
-- Advanced SQL Window Functions
 
 ---
 
 ## 📫 Let's Connect
 
 - 📧 Email: antoni.nguyen@email.com  
-- 💼 LinkedIn: [linkedin.com/in/antoni-nguyen](https://linkedin.com/in/antoni-nguyen)  
-- 💻 GitHub: [github.com/AntoniNguyen123](https://github.com/AntoniNguyen123)  
+- 💼 LinkedIn: [https://linkedin.com/in/antoni-nguyen](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/)
+- 💻 GitHub: [https://github.com/AntoniNguyen123](https://github.com/AntoniNguyen123)
 - 🌐 Portfolio Website: *(Coming Soon)*
 
 ---
