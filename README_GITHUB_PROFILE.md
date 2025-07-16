@@ -41,11 +41,22 @@
 
 ---
 
-## 📊 Analytical visualizations
+## 📊 Analytical visualizations (Customer-Segmentation-Analysis)
+
+🔹 Comparison histogram (Lunch vs Dinner)
 
 <img width="1389" height="490" alt="tipdinnerlunch" src="https://github.com/user-attachments/assets/a0cd10fb-2778-4fad-9197-9e420f9e44ec" />
+
+🔹 Tip distribution
+
 <img width="1790" height="490" alt="3plot" src="https://github.com/user-attachments/assets/960c5f63-2897-44f2-a11b-aeff4e7a6b86" />
+
+🔹 Tips by gender
+
 <img width="790" height="490" alt="tipmalefemale" src="https://github.com/user-attachments/assets/0f3f6c0e-dc01-4d65-ae88-e46651db4379" />
+
+🔹 Tips by day (weekday, weekend)
+
 <img width="790" height="490" alt="tipwkwday" src="https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12" />
 
 ---
