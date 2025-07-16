@@ -36,7 +36,7 @@
 ### 📦 [Sales Dashboard with Power BI](#)
 > Designed a dynamic dashboard to monitor monthly revenue, product categories, and top-performing regions.
 
-### 📈 [Online Retail RFM Analysis](#)
+### 📈 [Online Retail RFM Analysis](https://github.com/AntoniNguyen123/SCA-5.4-Restaurant-tips-analysis)
 > Cleaned and analyzed +500,000 UK transactions using Python. Performed RFM segmentation and clustering to identify high-value customers.
 
 ---
