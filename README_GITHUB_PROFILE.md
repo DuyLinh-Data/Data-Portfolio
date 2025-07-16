@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Antoni Nguyen
+# 👋 Hi, I'm Antoni Nguyễn Duy Linh
 
 I'm a Data Analyst passionate about turning raw data into actionable insights using Python, visualization, and machine learning. This GitHub is where I share my personal projects, learning progress, and data-driven experiments.
 
@@ -10,7 +10,7 @@ I'm a Data Analyst passionate about turning raw data into actionable insights us
 **Languages & Tools**:
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - SQL
-- Power BI / Tableau
+- Power BI
 - Jupyter Notebook / Google Colab
 - Git & GitHub
 
@@ -31,8 +31,8 @@ Exploratory data analysis on UK-based online retail transactions. Applied RFM an
 
 ## 📚 Learning & Certifications
 
-- 📊 Google Data Analytics Certificate (Coursera)
-- 📈 SQL for Data Analysis (Mode Analytics)
+- 📊 Certificate of Accomplishment - SQL (Advanced) (HackerRank)
+- 📈 Data Analysis Certificate (Swiss Coding Academy)
 - 🤖 Machine Learning Basics (Kaggle & DeepLearning.AI)
 
 ---
@@ -41,14 +41,14 @@ Exploratory data analysis on UK-based online retail transactions. Applied RFM an
 
 - Time Series Forecasting with Python
 - Streamlit for Data Apps
-- Advanced Excel for Data Analysts
+- Research on AI chatbots and task automation
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 Email: antoni.nguyen@email.com  
-- 💼 LinkedIn: [linkedin.com/in/antoni-nguyen](https://linkedin.com/in/antoni-nguyen)  
+- 📧 Email: linhnguyen.asia@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/antoni-nguyen]([(https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/)]
 - 🌐 Portfolio: Coming soon
 
 ---
