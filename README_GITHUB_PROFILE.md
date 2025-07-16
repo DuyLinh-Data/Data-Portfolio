@@ -61,7 +61,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: antoni.nguyen@email.com  
+- 📧 Email: linhnguyen.asia@gmail.com
 - 💼 LinkedIn: [https://linkedin.com/in/antoni-nguyen](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/)
 - 💻 GitHub: [https://github.com/AntoniNguyen123](https://github.com/AntoniNguyen123)
 - 🌐 Portfolio Website: *(Coming Soon)*
