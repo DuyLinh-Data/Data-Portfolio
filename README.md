@@ -40,7 +40,7 @@ With a background in engineering. I'm developing data analytics skills through d
 - 🛠 **Tools**: Python, Pandas, RFM, KMeans, Matplotlib  
 - ✅ **Result**: Segmented customers into 4 groups, found top 20% contributed ~80% revenue  
 
-### 📦 [Sales Dashboard with Power BI](#)
+### 📦 [Sales Dashboard with Power BI (Coming soon)](#)
 > Designed a dynamic dashboard to monitor monthly revenue, product categories, and top-performing regions.
 - 🧩 **Problem**: Monitor product revenue by region and category for better sales decisions  
 - 🛠 **Tools**: Power BI, Excel, DAX  
