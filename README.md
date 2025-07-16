@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="avt1.jpg" alt="Nguyễn Duy Linh" width="140" style="border-radius: 50%;" />
+</p>
 
 # 👋 With a background in engineering. 
 
