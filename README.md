@@ -40,7 +40,7 @@ With a background in engineering. I'm developing data analytics skills through d
 - 🛠 **Tools**: Python, Pandas, RFM, KMeans, Matplotlib  
 - ✅ **Result**: Segmented customers into 4 groups, found top 20% contributed ~80% revenue  
 
-### 📦 [Sales Dashboard with Power BI](#)
+### 📦 [Sales Dashboard with Power BI](Coming Soon)
 > Designed a dynamic dashboard to monitor monthly revenue, product categories, and top-performing regions.
 - 🧩 **Problem**: Monitor product revenue by region and category for better sales decisions  
 - 🛠 **Tools**: Power BI, Excel, DAX  
@@ -87,7 +87,7 @@ With a background in engineering. I'm developing data analytics skills through d
 - ✅ Pursuing Python skills for data analysis, machine learning, and deep learning applications – MCI Viet Nam
 - 🏗 In Progress: Utilizing Python for warranty turnaround time analysis and automation of service operations.
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7595d28c-519a-47c7-8aaf-f2a852ff77be" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/7595d28c-519a-47c7-8aaf-f2a852ff77be" />
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/95c38823-9d8d-413d-a85a-9a068b18428d" alt="cert1" width="48%" style="margin-right: 1%;" />
@@ -98,10 +98,10 @@ With a background in engineering. I'm developing data analytics skills through d
 
 ## 🌱 Currently Learning
 
-- Time Series Forecasting → to support service demand prediction 
-- Python for Automation → to improve service turnaround efficiency
-- AI Agent Research → exploring task automation and AI integration
-- Streamlit for deploying Data Science apps
+- 📈 Time Series Forecasting → to support service demand prediction 
+- 🔁 Python for Automation → to improve service turnaround efficiency
+- 🤖 AI Agent Research → exploring task automation and AI integration
+- 💻 Streamlit for deploying Data Science apps
 
 ---
 
