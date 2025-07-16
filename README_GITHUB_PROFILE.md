@@ -60,7 +60,7 @@
 
 <img width="790" height="490" alt="tipwkwday" src="https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12" />
 
- 📊 Analytical visualizations (Restaurant Tips Analysis)
+ 📊 **Analytical visualizations (Customer Segmentation)**<br>
 🔹 ***Exploratory analysis of customer count by day and hour***
 
 <img width="1590" height="1190" alt="image" src="https://github.com/user-attachments/assets/863c31f2-352f-4025-b44a-744b76f5959d" />
