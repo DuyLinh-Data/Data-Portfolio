@@ -63,9 +63,8 @@
 
 ## 📚 Certifications
 
-- ✅ Advanced SQL Certification (HackerRank) 
-- ✅ Data Analysis Certificate - Swiss Coding Academy
-  (https://certificate.swisscoding.edu.vn/?cert_number=HN6Y5TA9)
+- ✅ Advanced SQL Certification (HackerRank) (https://www.hackerrank.com/certificates/iframe/d2784041ad64)
+- ✅ Data Analysis Certificate - Swiss Coding Academy (https://certificate.swisscoding.edu.vn/?cert_number=HN6Y5TA9)
 - ✅ Pursuing Python skills for data analysis, machine learning, and deep learning applications – MCI Viet Nam
 - 🏗 In Progress: Utilizing Python for warranty turnaround time analysis and automation of service operations.
 
