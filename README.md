@@ -1,5 +1,5 @@
 
-# 👋 I'm a beginner in data analytics with a background in engineering.
+# 👋 With a background in engineering, I'm developing data analytics skills through daily practice and projects, aiming to apply them effectively in my current job and future career.
 
 🎯 Aspiring Data Analyst with 1+ year of experience using Python, SQL, and Power BI to uncover insights and improve operations. Continuously learning through real-world projects.✅
 
@@ -68,7 +68,7 @@
 <img width="790" height="490" alt="tipwkwday" src="https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12" />
 
  📊 **Analytical visualizations (Customer Segmentation)**<br>
- 
+ ---
 🔹 ***Exploratory analysis of customer count by day and hour***
 
 <img width="1590" height="1190" alt="image" src="https://github.com/user-attachments/assets/863c31f2-352f-4025-b44a-744b76f5959d" />
