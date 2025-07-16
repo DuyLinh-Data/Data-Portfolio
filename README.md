@@ -2,9 +2,9 @@
   <img src="avt1.jpg" alt="Nguyễn Duy Linh" width="200" style="border-radius: 50%;" />
 </p>
 
-# 👋 With a background in engineering. 
+# 👋 Data Analysis & Process Improvement | 1+ Year Experience 
 
-I'm developing data analytics skills through daily practice and projects, aiming to apply them effectively in my current job and future career.
+With a background in engineering. I'm developing data analytics skills through daily practice and projects, aiming to apply them effectively in my current job and future career.
 
 🎯 Aspiring Data Analyst with 1+ year of experience using Python, SQL, and Power BI to uncover insights and improve operations. Continuously learning through real-world projects.✅
 
