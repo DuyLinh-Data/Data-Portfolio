@@ -1,6 +1,6 @@
 
 # 👋 I'm a beginner in data analytics with a background in engineering.
-✅ Over the past year, I’ve been applying Python, Excel, and Power BI to real projects at work to build a better understanding of data-driven thinking.
+✅ Aspiring Data Analyst with 1+ year of hands-on experience applying analytics to improve business operations.
 
 🎯 I enjoy working with data and using tools like Python, SQL, and Power BI to find simple insights that help solve real-world problems. I'm continuously learning and building small projects to improve my skills.
 
@@ -9,7 +9,7 @@
 ## 💼 About Me
 
 - 🎓 Background in Engineering with a growing focus on Business Intelligence & Data Analytics
-- 📊 Skilled in building dashboards, customer segmentation models, and end-to-end data pipelines
+- 📊 Practicing dashboard building, customer segmentation, and data workflow automation
 - 💼 Actively looking for part-time roles in data analysis or full-time opportunities related to data
 - 📍 Based in Vietnam | 🌐 Open to global remote opportunities
 
@@ -39,7 +39,10 @@
 
 ### 🍽️ [Restaurant Tips Analysis](https://github.com/AntoniNguyen123/SCA-5.4-Restaurant-tips-analysis)
 > Analyzed tipping behavior based on time of day, gender, and day of the week using Python. Created visualizations to explore patterns between lunch vs. dinner, male vs. female, and weekday vs. weekend tipping trends.
-
+> 🧩 Problem: Understand tipping behavior by time, gender, and weekday  
+> 🛠 Tools: Python, Seaborn, Pandas  
+> ✅ Result: Found that dinner tips were higher; no strong gender difference after outlier removal
+> 
 ---
 
 ## 📊 Analytical visualizations (Restaurant Tips Analysis)
@@ -85,9 +88,9 @@
 
 ## 🌱 Currently Learning
 
-- Time Series Forecasting 
-- Python for Automation
-- AI Agent Development and Research
+- Time Series Forecasting → to support service demand prediction 
+- Python for Automation → to improve service turnaround efficiency
+- AI Agent Research → exploring task automation and AI integration
 - Streamlit for deploying Data Science apps
 
 ---
