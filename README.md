@@ -50,9 +50,11 @@ With a background in engineering. I'm developing data analytics skills through d
   </tr>
 </table>
 
+
 ## 🧰 Tech Stack
 
 ### Languages & Frameworks
+
 !Python
 !Pandas
 !NumPy
@@ -64,14 +66,12 @@ With a background in engineering. I'm developing data analytics skills through d
 !Go
 
 ### Tools & Platforms
+
 !Git
 !Bitbucket
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=fortyle=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-!Linux
-!VS Code
-!Colab
-![Kaggle](https://img.shields.io/badge/Kagields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weights-and-biases&logo
+!GitHub
+![Docker](https://img.shields.io/badge/Docker-2496EDields.io/badge/VS_Code-007ACC?style=for-the-badge&
+
 
 
 ## 📁 Featured Projects
