@@ -39,7 +39,7 @@
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen&show_icons=true&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen&layout=compact&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen123&layout=compact&theme=default" width="100%">
     </td>
     <td width="50%" align="center">
       <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="100%" alt="Analytics Dashboard" />
