@@ -38,11 +38,11 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen123&show_icons=true&theme=default" width="100%"><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen123&layout=compact&theme=default" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=DuyLinh-Data&show_icons=true&theme=default" width="100%"><br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyLinh-Data&layout=compact&theme=default" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="100%" alt="Analytics Dashboard" />
+      <img src="https://raw.githubusercontent.com/DuyLinh-Data/Data-Portfolio/main/da_desktop.jpg" width="100%" alt="Analytics Dashboard" />
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
 
 ## 📁 Featured Projects
 
-### 🔍 [Customer Segmentation Using KMeans](https://github.com/AntoniNguyen123/Customer-Segmentation-Analysis)
+### 🔍 [Customer Segmentation Using KMeans](https://github.com/DuyLinh-Data/Customer-Segmentation-Analysis)
 > Segment customers by annual income and spending score using KMeans Clustering. Resulted in 5 distinct customer groups with visualized insights to support marketing strategies.
 - 🧩 **Problem**: Identify high-value customers and churn risk from 540K UK retail transactions  
 - 🛠 **Tools**: Python, Pandas, RFM, KMeans, Matplotlib  
@@ -86,7 +86,7 @@
 - 🛠 **Tools**: Power BI, Excel, DAX  
 - ✅ **Result**: Built dynamic dashboard with region filters, KPIs, monthly trends  
 
-### 🍽️ [Restaurant Tips Analysis](https://github.com/AntoniNguyen123/SCA-5.4-Restaurant-tips-analysis)
+### 🍽️ [Restaurant Tips Analysis](https://github.com/DuyLinh-Data/SCA-5.4-Restaurant-tips-analysis)
 > Analyzed tipping behavior based on time of day, gender, and day of the week using Python. Created visualizations to explore patterns between lunch vs. dinner, male vs. female, and weekday vs. weekend tipping trends.<br><br>
 - 🧩 **Problem**: Explore tipping behavior by gender, time, and day of the week  
 - 🛠 **Tools**: Python, Seaborn, Pandas  
@@ -165,7 +165,7 @@
 
 - 📧 Email: linhnguyen.asia@gmail.com
 - 💼 LinkedIn: [https://linkedin.com/in/antoni-nguyen](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/)
-- 💻 GitHub: [https://github.com/AntoniNguyen123](https://github.com/AntoniNguyen123)
+- 💻 GitHub: [https://github.com/DuyLinh-Data](https://github.com/DuyLinh-Data)
 - 🌐 Portfolio Website: *(Coming Soon)*
 
 ---
