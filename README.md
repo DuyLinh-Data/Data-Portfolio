@@ -77,23 +77,9 @@
 ## 📁 Featured Projects
 
 ### 🔍 [Customer Segmentation Using KMeans](https://github.com/DuyLinh-Data/Customer-Segmentation-Analysis)
-> Segment customers by annual income and spending score using KMeans Clustering. Resulted in 5 distinct customer groups with visualized insights to support marketing strategies.
-- 🧩 **Problem**: Identify high-value customers and churn risk from 540K UK retail transactions  
-- 🛠 **Tools**: Python, Pandas, RFM, KMeans, Matplotlib  
-- ✅ **Result**: Segmented customers into 4 groups, found top 20% contributed ~80% revenue  
-
 ### 📦 [📚 Advanced Data Visualization with Python](https://github.com/DuyLinh-Data/SCA_Lesson/blob/main/Lesson_7/SCA_7_Homework.ipynb)
-> A collection of advanced visualization tasks using real-world data and Python's powerful libraries.
-- 🧩 Problem: Tackle complex questions involving trend analysis, comparative insights, and multi-variable plots.  
-- 🛠 Tools: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn  
-- ✅ **Outcome**: Strengthened data storytelling skills and gained hands-on experience with one of the most in-demand analytics workflows
-- 💡 This project reflects my investment in mastering advanced visualization techniques — an essential skill for any data analyst.
-
 ### 🍽️ [Restaurant Tips Analysis](https://github.com/DuyLinh-Data/SCA-5.4-Restaurant-tips-analysis)
-> Analyzed tipping behavior based on time of day, gender, and day of the week using Python. Created visualizations to explore patterns between lunch vs. dinner, male vs. female, and weekday vs. weekend tipping trends.<br><br>
-- 🧩 **Problem**: Explore tipping behavior by gender, time, and day of the week  
-- 🛠 **Tools**: Python, Seaborn, Pandas  
-- ✅ **Result**: Dinner tips > lunch; no gender difference after removing outliers  
+### 🍽📚 [Classroom Practice Exercises in Python]([https://github.com/DuyLinh-Data/SCA-5.4-Restaurant-tips-analysis](https://github.com/DuyLinh-Data/SCA_Lesson))
 
 ---
 
