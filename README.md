@@ -81,11 +81,11 @@ With a background in engineering. I'm developing data analytics skills through d
 
 🔹 ***Tips by gender***
 
-<img width="790" height="490" alt="tipmalefemale" src="https://github.com/user-attachments/assets/0f3f6c0e-dc01-4d65-ae88-e46651db4379" />
+<img width="790" height="290" alt="tipmalefemale" src="https://github.com/user-attachments/assets/0f3f6c0e-dc01-4d65-ae88-e46651db4379" />
 
 🔹 ***Tips by day (weekday, weekend)***
 
-<img width="790" height="490" alt="tipwkwday" src="https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12" />
+<img width="790" height="290" alt="tipwkwday" src="https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12" />
 
  📊 **Analytical visualizations (Customer Segmentation)**<br>
  ---
