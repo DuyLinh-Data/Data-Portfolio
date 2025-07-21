@@ -88,12 +88,6 @@ With a background in engineering. I'm developing data analytics skills through d
 <img width="490" height="290" alt="tipwkwday" src="https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12" />
 
 
-<imgs://github.com/user-attachments/assets/0f3f6c0e-dc01-4d65-ae88-e46651db4379
-
-https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12
-
-
-
  📊 **Analytical visualizations (Customer Segmentation)**<br>
  ---
 🔹 ***Exploratory analysis of customer count by day and hour***
