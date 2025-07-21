@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AntoniNguyen.Data-Portfolio)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DuyLinh-Data.Data-Portfolio)
 
 <table>
   <tr>
