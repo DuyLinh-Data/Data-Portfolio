@@ -162,7 +162,7 @@
   <a href="mailto:linhnguyen.asia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[https://linkedin.com/in/antoni-nguyen](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/)" target="_blank">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/DuyLinh-Data" target="_blank">
