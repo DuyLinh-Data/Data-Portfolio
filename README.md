@@ -44,8 +44,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyLinh-Data&layout=compact&theme=default" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/DuyLinh-Data/Data-Portfolio/main/da_desktop.jpg" width="100%" alt="Analytics Dashboard" />
-    </td>
+  <img src="https://raw.githubusercontent.com/CodexploreRepo/CodexploreRepo/master/.github/assets/coding.gif" width="100%" alt="Analytics GIF" />
+   </td>
   </tr>
 </table>
 
