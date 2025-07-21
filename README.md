@@ -95,7 +95,9 @@ With a background in engineering. I'm developing data analytics skills through d
 
 🔹 ***Comparison histogram (Lunch vs Dinner)***
 
+<p align="center">
 <img width="1389" height="490" alt="tipdinnerlunch" src="https://github.com/user-attachments/assets/a0cd10fb-2778-4fad-9197-9e420f9e44ec" />
+</p>
 
 🔹 ***Tip distribution***
 
