@@ -34,6 +34,8 @@ With a background in engineering. I'm developing data analytics skills through d
 
 ## 📊 GitHub Stats
 
+!Visitor Count
+
 <table>
   <tr>
     <td width="50%">
