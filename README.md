@@ -77,8 +77,8 @@
 ## 📁 Featured Projects
 
 ### 🔍 [Customer Segmentation Using KMeans](https://github.com/DuyLinh-Data/Customer-Segmentation-Analysis)
-### 📦 [Advanced Data Visualization with Python](https://github.com/DuyLinh-Data/SCA_Lesson/blob/main/Lesson_7/SCA_7_Homework.ipynb)
 ### 🍽️ [Restaurant Tips Analysis](https://github.com/DuyLinh-Data/SCA-5.4-Restaurant-tips-analysis)
+### 📦 [Advanced Data Visualization with Python](https://github.com/DuyLinh-Data/SCA_Lesson/blob/main/Lesson_7/SCA_7_Homework.ipynb)
 ### 📚 [Classroom Practice Exercises in Python](https://github.com/DuyLinh-Data/SCA_Lesson)
 
 ---
