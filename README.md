@@ -58,7 +58,7 @@ With a background in engineering. I'm developing data analytics skills through d
 !Pandas
 !NumPy
 !Matplotlib
-!Seaborn
+
 
 
 ### Tools & Platforms
