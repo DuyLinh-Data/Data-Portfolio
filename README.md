@@ -2,6 +2,8 @@
   <img src="avt1.jpg" alt="Nguyễn Duy Linh" width="200" style="border-radius: 50%;" />
 </p>
 
+!Visitor Count
+
 # 👋 Data Analysis & Process Improvement | 1+ Year Experience 
 
 With a background in engineering. I'm developing data analytics skills through daily practice and projects, aiming to apply them effectively in my current job and future career.
@@ -34,7 +36,7 @@ With a background in engineering. I'm developing data analytics skills through d
 
 ## 📊 GitHub Stats
 
-!Visitor Count
+
 
 <table>
   <tr>
