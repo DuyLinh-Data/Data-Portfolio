@@ -40,7 +40,7 @@ With a background in engineering. I'm developing data analytics skills through d
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/illustration.png" width="60%">
+  <img src="https://raw.githubusercontent.com/AntoniNguyen/Data-Portfolio/main/assets/illustration.png" width="60%">
 </p>
 
 <p align="center">
