@@ -82,11 +82,20 @@
 - 🛠 **Tools**: Python, Pandas, RFM, KMeans, Matplotlib  
 - ✅ **Result**: Segmented customers into 4 groups, found top 20% contributed ~80% revenue  
 
-### 📦 [Sales Dashboard with Power BI (Coming soon)](#)
-> Designed a dynamic dashboard to monitor monthly revenue, product categories, and top-performing regions.
-- 🧩 **Problem**: Monitor product revenue by region and category for better sales decisions  
-- 🛠 **Tools**: Power BI, Excel, DAX  
-- ✅ **Result**: Built dynamic dashboard with region filters, KPIs, monthly trends  
+### 📦 [📚 Advanced Data Visualization with Python]((https://github.com/DuyLinh-Data/SCA_Lesson/blob/main/Lesson_7/SCA_7_Homework.ipynb)
+> A collection of advanced visualization tasks using real-world data and Python's powerful libraries.
+- 🧩 Problem: Tackle complex questions involving trend analysis, comparative insights, and multi-variable plots.  
+- 🛠 Tools: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
+- 🎯 Highlights:
+
+ - Solved challenging data visualization problems requiring analytical thinking and deep understanding of charting techniques
+
+ - Created clear, insightful charts to reveal patterns in sales, customer behavior, and seasonal trends
+
+ - Applied advanced plotting logic with subplot layouts, custom color schemes, and annotations
+   
+- ✅ **Outcome**: Strengthened data storytelling skills and gained hands-on experience with one of the most in-demand analytics workflows
+- 💡 This project reflects my investment in mastering advanced visualization techniques — an essential skill for any data analyst.
 
 ### 🍽️ [Restaurant Tips Analysis](https://github.com/DuyLinh-Data/SCA-5.4-Restaurant-tips-analysis)
 > Analyzed tipping behavior based on time of day, gender, and day of the week using Python. Created visualizations to explore patterns between lunch vs. dinner, male vs. female, and weekday vs. weekend tipping trends.<br><br>
