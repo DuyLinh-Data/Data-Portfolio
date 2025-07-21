@@ -99,6 +99,12 @@ With a background in engineering. I'm developing data analytics skills through d
 <img width="1389" height="490" alt="tipdinnerlunch" src="https://github.com/user-attachments/assets/a0cd10fb-2778-4fad-9197-9e420f9e44ec" />
 </p>
 
+
+<p align="center">
+  <img width="1389" height="490" alt="tipdinnerlunch" src="https://github.com/user-attachments/assets/a0cd10fb-2778-4fad-9197-9e420f9e44ec" />
+</p>
+
+
 🔹 ***Tip distribution***
 
 <img width="1389" height="490" alt="3plot" src="https://github.com/user-attachments/assets/960c5f63-2897-44f2-a11b-aeff4e7a6b86" />
