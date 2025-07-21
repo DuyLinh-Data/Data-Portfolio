@@ -35,8 +35,8 @@ With a background in engineering. I'm developing data analytics skills through d
 ## 🚀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nguyen Duy Linh&show_icons=true&theme=default" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen Duy Linh&layout=compact&theme=default" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nguyen_Duy_Linh&show_icons=true&theme=default" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen_Duy_Linh&layout=compact&theme=default" width="45%"/>
 </div>
 
 
