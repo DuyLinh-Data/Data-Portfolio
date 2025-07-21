@@ -37,6 +37,7 @@ With a background in engineering. I'm developing data analytics skills through d
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen&show_icons=true&theme=default" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen&layout=compact&theme=default" width="45%"/>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 </div>
 
 
