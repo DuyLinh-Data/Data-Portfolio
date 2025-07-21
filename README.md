@@ -55,21 +55,21 @@ With a background in engineering. I'm developing data analytics skills through d
 
 ### Languages & Frameworks
 
-!Python
-!Pandas
-!NumPy
-!Matplotlib
-!Scikit-learn
-!PyTorch
-!TensorFlow
-!Keras
-!Go
+!Python<br>
+!Pandas<br>
+!NumPy<br>
+!Matplotlib<br>
+!Scikit-learn<br>
+!PyTorch<br>
+!TensorFlow<br>
+!Keras<br>
+!Go<br>
 
 ### Tools & Platforms
 
-!Git
-!Bitbucket
-!GitHub
+!Git<br>
+!Bitbucket<br>
+!GitHub<br>
 ![Docker](https://img.shields.io/badge/Docker-2496EDields.io/badge/VS_Code-007ACC?style=for-the-badge&
 
 
