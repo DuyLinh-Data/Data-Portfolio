@@ -2,7 +2,9 @@
 # 👋 Hi, I'm Nguyễn Duy Linh | Data Analysis & Process Improvement | 1+ Year Experience 
 
 <p align="left">
+ 
   **Aspiring Data Analyst with an engineering background, continuously learning and applying data skills through real-world projects to improve operations and support business decisions.**
+  
 </p>
 
 ---
