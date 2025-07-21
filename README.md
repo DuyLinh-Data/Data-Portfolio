@@ -95,15 +95,6 @@ With a background in engineering. I'm developing data analytics skills through d
 
 🔹 ***Comparison histogram (Lunch vs Dinner)***
 
-<p>
-  <img src="https://github.com/user-attachments/assets/c3acb2b6-71e7-417d-9c44-d1e66b67fa45" width="790" height="490" alt="image1" style="display:inline-block;"/>
-  <img src="https://github.com/user-attachments/assets/935871ca-30ef-4a00-8956-0b67d886592f" width="790" height="490" alt="image2" style="display:inline-block;"/>
-</p>
-
-
-
-
-
 <p align="right">
 <img width="1389" height="490" alt="tipdinnerlunch" src="https://github.com/user-attachments/assets/a0cd10fb-2778-4fad-9197-9e420f9e44ec" />
 </p>
@@ -113,6 +104,8 @@ With a background in engineering. I'm developing data analytics skills through d
 <img width="1389" height="490" alt="3plot" src="https://github.com/user-attachments/assets/960c5f63-2897-44f2-a11b-aeff4e7a6b86" />
 
 🔹 ***Tips by gender***
+
+![image1](https://github.com/user-attachments/assets/c3acb2b6-71e7-417d-9c44-d1e66b67fa45) ![image2](https://github.com/user-attachments/assets/935871ca-30ef-4a00-8956-0b67d886592f)
 
 <img width="690" height="350" alt="tipmalefemale" src="https://github.com/user-attachments/assets/0f3f6c0e-dc01-4d65-ae88-e46651db4379" />
 
