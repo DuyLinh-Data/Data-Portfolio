@@ -47,6 +47,20 @@
   </tr>
 </table>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen123&show_icons=true&theme=default" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen123&layout=compact&theme=default" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="60%" alt="Analytics Dashboard" />
+</p>
+
+<p align="center">
+  <i>Thanks for visiting! 🚀</i>
+</p>
 
 ## 🧰 Tech Stack
 
