@@ -53,16 +53,17 @@ With a background in engineering. I'm developing data analytics skills through d
 ## 🧰 Tech Stack
 
 ### Languages & Frameworks
-
 !Python
 !Pandas
 !NumPy
 !Matplotlib
-
-
+!Scikit-learn
+!PyTorch
+!TensorFlow
+!Keras
+!Go
 
 ### Tools & Platforms
-
 !Git
 !Bitbucket
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=fortyle=for-the-badge&logo=docker&logoColor=white)
