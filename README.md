@@ -152,12 +152,6 @@
 
 ## 📫 Contact me via:
 
-- 📧 Email: linhnguyen.asia@gmail.com
-- 💼 LinkedIn: [https://linkedin.com/in/antoni-nguyen](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/)
-- 💻 GitHub: [https://github.com/DuyLinh-Data](https://github.com/DuyLinh-Data)
-- 🌐 Portfolio Website: [https://github.com/DuyLinh-Data](https://github.com/DuyLinh-Data)
-
-
 <p align="left">
   <a href="mailto:linhnguyen.asia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
