@@ -132,6 +132,13 @@ With a background in engineering. I'm developing data analytics skills through d
   <img src="https://github.com/user-attachments/assets/2f1253b2-cba2-4356-a935-18f19577de4b" alt="cert2" width="48%" />
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7595d28c-519a-47c7-8aaf-f2a852ff77be" alt="image1" width="32%" style="margin-rightd8d-413d-a85a-9a068b18428d
+  https://github.com/user-attachments/assets/2f1253b2-cba2-4356-a935-18f19577de4b
+</p>
+
+
 ---
 
 ## 🌱 Currently Learning
