@@ -44,7 +44,7 @@ With a background in engineering. I'm developing data analytics skills through d
 </p>
 
 <p align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=AntoniNguyen)
 </p>
 
 
