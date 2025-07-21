@@ -89,6 +89,7 @@ With a background in engineering. I'm developing data analytics skills through d
 
 
 <imgs://github.com/user-attachments/assets/0f3f6c0e-dc01-4d65-ae88-e46651db4379
+
 https://github.com/user-attachments/assets/f5d9d570-6a87-436d-840f-2992c0304f12
 
 
