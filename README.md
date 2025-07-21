@@ -31,6 +31,7 @@ With a background in engineering. I'm developing data analytics skills through d
 | **Languages**       | English (IELTS ~5.5), Vietnamese (native)                 |
 
 ---
+
 ## 🚀 GitHub Stats
 
 <div align="center">
@@ -38,6 +39,7 @@ With a background in engineering. I'm developing data analytics skills through d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" width="45%"/>
 </div>
 ---
+
 ## 📁 Featured Projects
 
 ### 🔍 [Customer Segmentation Using KMeans](https://github.com/AntoniNguyen123/Customer-Segmentation-Analysis)
