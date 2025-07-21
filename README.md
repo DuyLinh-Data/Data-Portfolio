@@ -130,7 +130,7 @@ With a background in engineering. I'm developing data analytics skills through d
 
 <table align="center">
   <tr>
-    <!-- Cột 1: ảnh 1 và ảnh 2 (xếp dọc) -->
+    <!-- Cột 1: ảnh 1 và ảnh 2 xếp dọc -->
     <td>
       <img src="https://github.com/user-attachments/assets/7595d28c-519a-47c7-8aaf-f2a852ff77be" alt="image1" width="200px" /><br/>
       <img src="https://github.com/user-attachments/assets/fdd251b5-57df-4b94-8460-f215841bf2a3" alt="image2" width="200px" />
@@ -147,7 +147,6 @@ With a background in engineering. I'm developing data analytics skills through d
     </td>
   </tr>
 </table>
-
 
 
 ---
