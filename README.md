@@ -39,6 +39,10 @@ With a background in engineering. I'm developing data analytics skills through d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen&layout=compact&theme=default" width="45%">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AntoniNguyen/Data-Portfolio/main/da_desktop.jpg" width="60%" alt="Data Analytics Desktop">
+</p>
+
 
 ## 📁 Featured Projects
 
