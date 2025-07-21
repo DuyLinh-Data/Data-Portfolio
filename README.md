@@ -82,17 +82,17 @@
 - 🛠 **Tools**: Python, Pandas, RFM, KMeans, Matplotlib  
 - ✅ **Result**: Segmented customers into 4 groups, found top 20% contributed ~80% revenue  
 
-### 📦 [📚 Advanced Data Visualization with Python]((https://github.com/DuyLinh-Data/SCA_Lesson/blob/main/Lesson_7/SCA_7_Homework.ipynb)
+### 📦 [📚 Advanced Data Visualization with Python](https://github.com/DuyLinh-Data/SCA_Lesson/blob/main/Lesson_7/SCA_7_Homework.ipynb)
 > A collection of advanced visualization tasks using real-world data and Python's powerful libraries.
 - 🧩 Problem: Tackle complex questions involving trend analysis, comparative insights, and multi-variable plots.  
 - 🛠 Tools: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
 - 🎯 Highlights:
 
- - Solved challenging data visualization problems requiring analytical thinking and deep understanding of charting techniques
+  - Solved challenging data visualization problems requiring analytical thinking and deep understanding of charting techniques
 
- - Created clear, insightful charts to reveal patterns in sales, customer behavior, and seasonal trends
+  - Created clear, insightful charts to reveal patterns in sales, customer behavior, and seasonal trends
 
- - Applied advanced plotting logic with subplot layouts, custom color schemes, and annotations
+  - Applied advanced plotting logic with subplot layouts, custom color schemes, and annotations
    
 - ✅ **Outcome**: Strengthened data storytelling skills and gained hands-on experience with one of the most in-demand analytics workflows
 - 💡 This project reflects my investment in mastering advanced visualization techniques — an essential skill for any data analyst.
