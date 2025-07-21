@@ -1,16 +1,18 @@
 
-# 👋 Data Analysis & Process Improvement | 1+ Year Experience 
+# 👋 Hi, I'm Nguyễn Duy Linh | Data Analysis & Process Improvement | 1+ Year Experience 
 
-With a background in engineering. I'm developing data analytics skills through daily practice and projects, aiming to apply them effectively in my current job and future career.
-
-🎯 Aspiring Data Analyst with 1+ year of experience using Python, SQL, and Power BI to uncover insights and improve operations. Continuously learning through real-world projects.✅
+<p align="center">
+  Aspiring Data Analyst with an engineering background, continuously learning and applying data skills through real-world projects to improve operations and support business decisions.
+</p>
 
 ---
 
 ## 💼 About Me
 
-- 🎓 Background in Engineering with a growing focus on Business Intelligence & Data Analytics
-- 📊 Practicing dashboard building, customer segmentation, and data workflow automation
+- 🔎 Focused on Business Intelligence and Process Optimization  
+- 📊 1+ year of hands-on data analytics experience  
+- 🧠 Enjoy solving practical problems with Python, SQL, and Power BI  
+- 📚 Always improving mindset through projects and learning
 - 💼 Actively looking for part-time roles in data analysis or full-time opportunities related to data
 - 📍 Based in Vietnam | 🌐 Open to global remote opportunities
 
