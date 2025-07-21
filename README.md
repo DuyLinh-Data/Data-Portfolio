@@ -106,8 +106,8 @@ With a background in engineering. I'm developing data analytics skills through d
 🔹 ***Tips by gender and by day (weekday, weekend)***
 
 <p style="display:flex; gap:10px;">
-  <img src="https://github.com/user-attachments/assets/c3acb2b6-71e7-417d-9c44-d1e66b67fa45" width="495" height="350" alt="image1"/>
-  <img src="https://github.com/user-attachments/assets/935871ca-30ef-4a00-8956-0b67d886592f" width="495" height="350" alt="image2"/>
+  <img src="https://github.com/user-attachments/assets/c3acb2b6-71e7-417d-9c44-d1e66b67fa45" width="400" height="350" alt="image1"/>
+  <img src="https://github.com/user-attachments/assets/935871ca-30ef-4a00-8956-0b67d886592f" width="400" height="350" alt="image2"/>
 </p>
 
 
