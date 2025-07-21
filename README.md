@@ -106,8 +106,8 @@ With a background in engineering. I'm developing data analytics skills through d
 🔹 ***Tips by gender***
 
 <p style="display:flex; gap:10px;">
-  <img src="https://github.com/user-attachments/assets/c3acb2b6-71e7-417d-9c44-d1e66b67fa45" width="390" height="245" alt="image1"/>
-  <img src="https://github.com/user-attachments/assets/935871ca-30ef-4a00-8956-0b67d886592f" width="390" height="245" alt="image2"/>
+  <img src="https://github.com/user-attachments/assets/c3acb2b6-71e7-417d-9c44-d1e66b67fa45" width="450" height="280" alt="image1"/>
+  <img src="https://github.com/user-attachments/assets/935871ca-30ef-4a00-8956-0b67d886592f" width="450" height="280" alt="image2"/>
 </p>
 
 <img width="690" height="350" alt="tipmalefemale" src="https://github.com/user-attachments/assets/0f3f6c0e-dc01-4d65-ae88-e46651db4379" />
