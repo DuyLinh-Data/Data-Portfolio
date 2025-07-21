@@ -40,7 +40,7 @@ With a background in engineering. I'm developing data analytics skills through d
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntoniNguyen/Data-Portfolio/main/assets/da_desktop.jpg" width="60%" alt="Data Analytics Desktop">
+  <img src="https://raw.githubusercontent.com/AntoniNguyen/Data-Portfolio/main/da_desktop.jpg" width="60%" alt="Data Analytics Desktop">
 </p>
 
 <p align="center">
