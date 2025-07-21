@@ -51,16 +51,15 @@
 
 <table>
   <tr>
-    <!-- GitHub Stats bên trái -->
-    <td width="50%" style="vertical-align: top; padding-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen123&show_icons=true&theme=default" width="100%">
-      <br><br>
+    <!-- Bên trái: GitHub Stats -->
+    <td width="50%" valign="top" style="padding-right: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen123&show_icons=true&theme=default" width="100%"><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen123&layout=compact&theme=default" width="100%">
     </td>
 
-    <!-- Ảnh bên phải -->
-    <td width="50%" style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="100%" alt="Analytics Dashboard">
+    <!-- Bên phải: Hình ảnh dashboard -->
+    <td width="50%" valign="top" align="right">
+      <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="95%" alt="Analytics Dashboard">
     </td>
   </tr>
 </table>
