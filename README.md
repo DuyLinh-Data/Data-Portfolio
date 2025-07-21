@@ -169,7 +169,7 @@
 - 📧 Email: linhnguyen.asia@gmail.com
 - 💼 LinkedIn: [https://linkedin.com/in/antoni-nguyen](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-linh/)
 - 💻 GitHub: [https://github.com/DuyLinh-Data](https://github.com/DuyLinh-Data)
-- 🌐 Portfolio Website: *(Coming Soon)*
+- 🌐 Portfolio Website: [https://github.com/DuyLinh-Data](https://github.com/DuyLinh-Data)
 
 ---
 
