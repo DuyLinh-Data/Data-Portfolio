@@ -32,13 +32,21 @@ With a background in engineering. I'm developing data analytics skills through d
 
 ---
 
-## 🚀 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen&show_icons=true&theme=default" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen&layout=compact&theme=default" width="45%"/>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/illustration.png" width="60%">
+</p>
+
+<p align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername)
+</p>
+
 
 
 ## 📁 Featured Projects
