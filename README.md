@@ -36,7 +36,7 @@ With a background in engineering. I'm developing data analytics skills through d
 
 ## 📊 GitHub Stats
 
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AntoniNguyen.Data-Portfolio)
 
 <table>
   <tr>
