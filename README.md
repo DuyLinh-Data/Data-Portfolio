@@ -41,7 +41,7 @@ With a background in engineering. I'm developing data analytics skills through d
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen&layout=compact&theme=default" />
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="90%" alt="Analytics Dashboard" />
+      <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="100%" alt="Analytics Dashboard" />
     </td>
   </tr>
 </table>
