@@ -40,9 +40,8 @@ With a background in engineering. I'm developing data analytics skills through d
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntoniNguyen/Data-Portfolio/main/da_desktop.jpg" width="60%" alt="Data Analytics Desktop">
+  <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="60%" alt="Analytics Dashboard" />
 </p>
-
 
 ## 📁 Featured Projects
 
