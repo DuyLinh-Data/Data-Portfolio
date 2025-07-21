@@ -49,18 +49,23 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen123&show_icons=true&theme=default" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen123&layout=compact&theme=default" width="45%">
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=AntoniNguyen123&show_icons=true&theme=default" width="100%">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniNguyen123&layout=compact&theme=default" width="100%">
+    
+    </td>
+    <td width="50%" align="center">
+    
+      <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="90%" alt="Analytics Dashboard" />
+    
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AntoniNguyen123/Data-Portfolio/main/da_desktop.jpg" width="60%" alt="Analytics Dashboard" />
-</p>
-
-<p align="center">
-  <i>Thanks for visiting! 🚀</i>
-</p>
 
 ## 🧰 Tech Stack
 
