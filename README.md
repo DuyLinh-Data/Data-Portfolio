@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="avt1.jpg" alt="Nguyễn Duy Linh" width="200" style="border-radius: 50%;" />
-</p>
-
-
 
 # 👋 Data Analysis & Process Improvement | 1+ Year Experience 
 
