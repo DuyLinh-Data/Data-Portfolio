@@ -165,7 +165,11 @@
   <a href="https://github.com/DuyLinh-Data" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Firefox&logoColor=white" alt="Portfolio Website" />
   </a>
+  <a href="https://www.tiktok.com/@duy.linh9530?_t=ZS-8yDeD3Rka5i&_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </p>
+
 
 
 ---
