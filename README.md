@@ -80,6 +80,7 @@
 ### 🍽️ [Restaurant Tips Analysis](https://github.com/DuyLinh-Data/SCA-5.4-Restaurant-tips-analysis)
 ### 📦 [Advanced Data Visualization with Python](https://github.com/DuyLinh-Data/SCA_Lesson/blob/main/Lesson_7/SCA_7_Homework.ipynb)
 ### 📚 [SCA Classroom Practice Exercises](https://github.com/DuyLinh-Data/SCA_Lesson)
+### 📚 [Auto Practice](https://github.com/DuyLinh-Data/DA_self_learning)
 ### 🎨 [MCI Classroom Practice Exercises in Python](https://github.com/DuyLinh-Data/MCI_Homework_Exercise)
 
 ---
