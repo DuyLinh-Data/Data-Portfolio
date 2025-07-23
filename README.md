@@ -89,15 +89,13 @@
 
 ## 📊 Analytical visualizations (Restaurant Tips Analysis)
 
+ <details>
+  
 🔹 ***Comparison histogram (Lunch vs Dinner)***
 
 <p align="right">
 <img width="1389" height="490" alt="tipdinnerlunch" src="https://github.com/user-attachments/assets/a0cd10fb-2778-4fad-9197-9e420f9e44ec" />
 </p>
-
-🔹 ***Tip distribution***
-
-<img width="1389" height="490" alt="3plot" src="https://github.com/user-attachments/assets/960c5f63-2897-44f2-a11b-aeff4e7a6b86" />
 
 🔹 ***Tips by gender and by day (weekday, weekend)***
 
@@ -106,8 +104,12 @@
   <img src="https://github.com/user-attachments/assets/935871ca-30ef-4a00-8956-0b67d886592f" width="400" height="350" alt="image2"/>
 </p>
 
-
+ </details>
+  
  📊 **Analytical visualizations (Customer Segmentation)**<br>
+
+  <details>
+   
  ---
 🔹 ***Exploratory analysis of customer count by day and hour***
 
@@ -115,6 +117,8 @@
 
 ---
 
+ </details>
+  
 ## 📚 Certifications
 
 - ✅ Advanced SQL Certification (HackerRank) (https://www.hackerrank.com/certificates/iframe/d2784041ad64)
