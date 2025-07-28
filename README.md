@@ -171,7 +171,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/DuyLinh-Data" target="_blank">
-    <img src="https://www.notion.so/Nguyen-Duy-Linh-23b3a9dab664808fa432cfa7580be40a" alt="Portfolio Website" />
+    <img src="https://www.notion.so/Nguyen-Duy-Linh-23b3a9dab664808fa432cfa7580be40a" alt="Notion" />
   </a>
   <a href="https://www.tiktok.com/@duy.linh9530?_t=ZS-8yDeD3Rka5i&_r=1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
