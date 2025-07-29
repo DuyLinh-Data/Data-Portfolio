@@ -87,6 +87,14 @@
 ### 🎨 [MCI Classroom Practice Exercises in Python](https://github.com/DuyLinh-Data/MCI_Homework_Exercise)
 ---
 
+## 🎥 My Journey on TikTok
+
+[![My TikTok Journey](./images/tiktok_preview.png)](https://www.tiktok.com/@duy.linh9530/video/7532551313435954450)
+
+> 📹 In this short video, I share my motivation, learning path, and how I use AI & data tools daily.
+
+---
+
 ## 📊 Analytical visualizations (Restaurant Tips Analysis)
 
  <details>
