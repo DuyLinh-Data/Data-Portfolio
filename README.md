@@ -87,11 +87,12 @@
 ### 🎨 [MCI Classroom Practice Exercises in Python](https://github.com/DuyLinh-Data/MCI_Homework_Exercise)
 ---
 
-## 🎥 My Journey on TikTok
+### 🎥 My Journey on TikTok
 
-> 📹 In this short video, I share my motivation, learning path, and how I apply AI & data tools in real life.
-> 
-🔗 Watch on TikTok
+[![My TikTok Journey](https://raw.githubusercontent.com/DuyLinh-Data/DA_self_learning/main/Stats_covid19/data/recover%20rate%20by%20who.png)](https://www.tiktok.com/@duy.linh9530/video/7532551313435954450)
+
+> 📹 *In this short video, I share my motivation, learning path, and how I apply AI & data tools in real life.*  
+> 🔗 [Watch on TikTok](https://www.tiktok.com/@duy.linh9530/video/7532551313435954450)
 
 ---
 
