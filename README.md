@@ -89,9 +89,8 @@
 
 ## 🎥 My Journey on TikTok
 
-[![My TikTok Journey](./images/tiktok_preview.png)](https://www.tiktok.com/@duy.linh9530/video/7532551313435954450)
-
-> 📹 In this short video, I share my motivation, learning path, and how I use AI & data tools daily.
+> 📹 In this short video, I share my motivation, learning path, and how I apply AI & data tools in real life.
+🔗 Watch on TikTok
 
 ---
 
