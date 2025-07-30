@@ -95,7 +95,7 @@ A live interactive web app to track confirmed COVID-19 cases by WHO region.
 📁 [Project Source Code](https://github.com/DuyLinh-Data/DA_self_learning/tree/main/Stats_covid19)  
 🧪 [Original Jupyter Notebook](https://github.com/DuyLinh-Data/DA_self_learning/blob/main/Stats_covid19/Stats_covid19.ipynb)
 
-![screenshot](https://github.com/DuyLinh-Data/DA_self_learning/raw/main/Stats_covid19/screenshot.png)
+![screenshot](https://github.com/DuyLinh-Data/DA_self_learning/raw/main/Stats_covid19/screenshot_cv19.png)
 
 ---
 
