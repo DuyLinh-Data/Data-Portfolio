@@ -87,6 +87,18 @@
 ### 🎨 [MCI Classroom Practice Exercises in Python](https://github.com/DuyLinh-Data/MCI_Homework_Exercise)
 ---
 
+## 🌍 COVID-19 WHO Dashboard (Streamlit)
+
+A live interactive web app to track confirmed COVID-19 cases by WHO region.
+
+🔗 [Live App on Streamlit](https://daselflearning-nmw5nwtmjpq95we5uqfgww.streamlit.app/)  
+📁 [Project Source Code](https://github.com/DuyLinh-Data/DA_self_learning/tree/main/Stats_covid19)  
+🧪 [Original Jupyter Notebook](https://github.com/DuyLinh-Data/DA_self_learning/blob/main/Stats_covid19/Stats_covid19.ipynb)
+
+![screenshot](https://github.com/DuyLinh-Data/DA_self_learning/raw/main/Stats_covid19/screenshot.png)
+
+---
+
 ### 🎥 My Journey on TikTok
 
 [![My TikTok Journey](https://raw.githubusercontent.com/DuyLinh-Data/DA_self_learning/main/Stats_covid19/data/recover%20rate%20by%20who.png)](https://www.tiktok.com/@duy.linh9530/video/7532551313435954450)
