@@ -87,7 +87,7 @@
 ### 🎨 [MCI Classroom Practice Exercises in Python](https://github.com/DuyLinh-Data/MCI_Homework_Exercise)
 ---
 
-📊 **Interactive COVID-19 Dashboard using WHO Dataset (Streamlit)**
+## 📊 **Interactive COVID-19 Dashboard using WHO Dataset (Streamlit)**
 
 This interactive Streamlit application provides visual insights into the global COVID-19 situation using official WHO data.  
 It allows users to explore confirmed cases, deaths, recoveries, and trends across countries and timeframes.
@@ -103,6 +103,9 @@ It allows users to explore confirmed cases, deaths, recoveries, and trends acros
 
 **🔗 Live App:** [Click here to explore](https://daselflearning-epjgzzpmcknpfcwnesyzcs.streamlit.app/)
 **📂 Source Code:** [GitHub Repository](https://github.com/DuyLinh-Data/Stats_covid19)
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://daselflearning-epjgzzpmcknpfcwnesyzcs.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 
 
 ---
