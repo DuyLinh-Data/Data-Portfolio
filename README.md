@@ -107,6 +107,7 @@ It allows users to explore confirmed cases, deaths, recoveries, and trends acros
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://daselflearning-epjgzzpmcknpfcwnesyzcs.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 
+![screenshot](https://github.com/DuyLinh-Data/DA_self_learning/raw/main/Stats_covid19/screenshot_cv.PNG)
 
 ---
 
