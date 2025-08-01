@@ -87,16 +87,23 @@
 ### 🎨 [MCI Classroom Practice Exercises in Python](https://github.com/DuyLinh-Data/MCI_Homework_Exercise)
 ---
 
-## 🌍 COVID-19 WHO Dashboard (Streamlit)
+📊 **Interactive COVID-19 Dashboard using WHO Dataset (Streamlit)**
 
-A live interactive web app to track confirmed COVID-19 cases by WHO region.
+This interactive Streamlit application provides visual insights into the global COVID-19 situation using official WHO data.  
+It allows users to explore confirmed cases, deaths, recoveries, and trends across countries and timeframes.
 
-🔗 [Live App on Streamlit](https://daselflearning-epjgzzpmcknpfcwnesyzcs.streamlit.app/)
-📁 [Project Source Code](https://github.com/DuyLinh-Data/DA_self_learning/tree/main/Stats_covid19)  
-🧪 [Original Jupyter Notebook](https://github.com/DuyLinh-Data/DA_self_learning/blob/main/Stats_covid19/Stats_covid19.ipynb)
+**🔧 Tools & Technologies:**
+- Python, Pandas, Seaborn, Matplotlib, Streamlit
 
+**📈 Key Features:**
+- Time series line plots by country
+- Global overview by day
+- Country-specific comparisons
+- Dynamic data filtering via sidebar widgets
 
-![screenshot](https://github.com/DuyLinh-Data/DA_self_learning/raw/main/Stats_covid19/screenshot_cv.PNG)
+**🔗 Live App:** [Click here to explore](https://daselflearning-epjgzzpmcknpfcwnesyzcs.streamlit.app/)
+**📂 Source Code:** [GitHub Repository](https://github.com/DuyLinh-Data/Stats_covid19)
+
 
 ---
 
