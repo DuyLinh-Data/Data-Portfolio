@@ -80,11 +80,12 @@
 
 ## 📁 Featured Projects
 
+### 🚑 [COVID-19 pandemic statistics (Streamlit)](https://github.com/DuyLinh-Data/DA_self_learning/blob/main/Stats_covid19/Stats_covid19.ipynb)
 ### 🔍 [Customer Segmentation Using KMeans](https://github.com/DuyLinh-Data/Customer-Segmentation-Analysis)
 ### 🍽️ [Restaurant Tips Analysis](https://github.com/DuyLinh-Data/SCA-5.4-Restaurant-tips-analysis)
 ### 📦 [Advanced Data Visualization with Python](https://github.com/DuyLinh-Data/SCA_Lesson/blob/main/Lesson_7/SCA_7_Homework.ipynb)
 ### 🔍 [Product Sales Analysis](https://github.com/DuyLinh-Data/DA_self_learning/blob/main/Product%20Sales%20Analysis/Product%20Sales%20Analysis.ipynb)
-### 🚑 [COVID-19 pandemic statistics](https://github.com/DuyLinh-Data/DA_self_learning/blob/main/Stats_covid19/Stats_covid19.ipynb)
+
 ---
 ### 📚 [SCA Classroom Practice Exercises](https://github.com/DuyLinh-Data/SCA_Lesson)
 ### 📚 [Auto Practice](https://github.com/DuyLinh-Data/DA_self_learning)
